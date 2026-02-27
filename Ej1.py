@@ -5,5 +5,5 @@ apellido=input("Ingrese su apellido: ")
 #Se define variable pais.
 pais="Russia"
 #Se imprime mensaje por consola.
-print(f"HOla mi nombre es {nombre} {apellido} y vivo en {pais}")
+print(f"Hola mi nombre es {nombre} {apellido} y vivo en {pais}")
    
